@@ -1,2 +1,2 @@
 # SQL-Project
-This project analyzes consumer behavior, market research, and social media data to provide insights for SONY's products and services. Using advanced data science techniques, it will uncover trends in customer interactions and preferences to support better decision-making at SONY.
+This project aims to develop a subscriber insights dashboard that leverages subscriber data for strategic analysis for high-level executive audiences at ESPN+. The dashboard will provide valuable visualizations and analytics to uncover trends, patterns, and key metrics related to subscriber behavior and engagement.
